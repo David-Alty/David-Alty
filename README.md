@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @David-Alty
-- 👀 I’m interested in ...
+- 👀 I’m interested in Engineering
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me davut.alti@gmail.com
 - 😄 Pronouns: Dawood
